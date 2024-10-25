@@ -3,3 +3,6 @@
 
 def M(w: float, l: float):
     return w * l * l / 8
+
+def M_point(p: float, l: float):
+    return P * L / 4
